@@ -1,1 +1,2 @@
 Learning Git step by step!
+27-05-26 at 2.38 am learn to connct my code to gitHub
